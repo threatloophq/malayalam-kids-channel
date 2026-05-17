@@ -1,1 +1,92 @@
-{"last_run":"","status":"pending","history":[]}
+{
+  "last_run": "2026-05-17 18:48 UTC",
+  "status": "failed",
+  "title": "Dinosaur Stories for Kids",
+  "youtube_url": "",
+  "history": [
+    {
+      "last_run": "2026-05-17 18:48 UTC",
+      "status": "failed",
+      "title": "Dinosaur Stories for Kids",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-05-17 18:48 UTC",
+      "status": "failed",
+      "title": "ABC Songs for Children - Nursery Rhymes",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-05-17 18:48 UTC",
+      "status": "failed",
+      "title": "The Lion and the Mouse - Moral Story for Kids",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-05-17 18:48 UTC",
+      "status": "failed",
+      "title": "Dinosaur Stories for Kids",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-05-17 18:48 UTC",
+      "status": "failed",
+      "title": "ABC Songs for Children - Nursery Rhymes",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-05-17 18:48 UTC",
+      "status": "failed",
+      "title": "The Lion and the Mouse - Moral Story for Kids",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-05-17 18:41 UTC",
+      "status": "success",
+      "title": "Dinosaur Stories for Kids",
+      "youtube_url": "https://www.youtube.com/watch?v=N2VUHy_jVjk",
+      "error": ""
+    },
+    {
+      "last_run": "2026-05-17 18:41 UTC",
+      "status": "success",
+      "title": "ABC Songs for Children - Nursery Rhymes",
+      "youtube_url": "https://www.youtube.com/watch?v=g2yqx3ee8fQ",
+      "error": ""
+    },
+    {
+      "last_run": "2026-05-17 18:41 UTC",
+      "status": "success",
+      "title": "The Lion and the Mouse - Moral Story for Kids",
+      "youtube_url": "https://www.youtube.com/watch?v=0zDQ0fISND0",
+      "error": ""
+    },
+    {
+      "last_run": "2026-05-17 18:32 UTC",
+      "status": "failed",
+      "title": "Dinosaur Stories for Kids",
+      "youtube_url": "",
+      "error": "Connection error."
+    },
+    {
+      "last_run": "2026-05-17 18:32 UTC",
+      "status": "failed",
+      "title": "ABC Songs for Children - Nursery Rhymes",
+      "youtube_url": "",
+      "error": "Connection error."
+    },
+    {
+      "last_run": "2026-05-17 18:32 UTC",
+      "status": "failed",
+      "title": "The Lion and the Mouse - Moral Story for Kids",
+      "youtube_url": "",
+      "error": "Connection error."
+    }
+  ]
+}
