@@ -1,9 +1,30 @@
 {
-  "last_run": "2026-05-17 19:12 UTC",
+  "last_run": "2026-05-18 06:55 UTC",
   "status": "failed",
   "title": "Five Little Ducks - Kids Song",
   "youtube_url": "",
   "history": [
+    {
+      "last_run": "2026-05-18 06:55 UTC",
+      "status": "failed",
+      "title": "Five Little Ducks - Kids Song",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-05-18 06:55 UTC",
+      "status": "failed",
+      "title": "Wheels on the Bus - Nursery Rhymes",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-05-18 06:55 UTC",
+      "status": "failed",
+      "title": "Baby Shark Dance - Kids Song",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
     {
       "last_run": "2026-05-17 19:12 UTC",
       "status": "failed",
