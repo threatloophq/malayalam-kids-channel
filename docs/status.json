@@ -1,9 +1,30 @@
 {
-  "last_run": "2026-05-20 06:47 UTC",
+  "last_run": "2026-05-21 06:52 UTC",
   "status": "failed",
-  "title": "Cha Cha slide \ud83d\udc6f",
+  "title": "Nastya teaches how to make the right decisions",
   "youtube_url": "",
   "history": [
+    {
+      "last_run": "2026-05-21 06:52 UTC",
+      "status": "failed",
+      "title": "Nastya teaches how to make the right decisions",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-05-21 06:52 UTC",
+      "status": "failed",
+      "title": "Good morning Song with Jaz @Bebefinn #kidsvideo #supersimplesongs #cocomelon #lingokids #morning",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-05-21 06:52 UTC",
+      "status": "failed",
+      "title": "If you are hungry @CoComelon #supersimplesongs #bebefinn #supersimplesongs #kidsvideo #kidssongs",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
     {
       "last_run": "2026-05-20 06:47 UTC",
       "status": "failed",
@@ -192,27 +213,6 @@
       "title": "The Lion and the Mouse - Moral Story for Kids",
       "youtube_url": "",
       "error": "Could not download video \u2014 skipping"
-    },
-    {
-      "last_run": "2026-05-17 18:41 UTC",
-      "status": "success",
-      "title": "Dinosaur Stories for Kids",
-      "youtube_url": "https://www.youtube.com/watch?v=N2VUHy_jVjk",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-17 18:41 UTC",
-      "status": "success",
-      "title": "ABC Songs for Children - Nursery Rhymes",
-      "youtube_url": "https://www.youtube.com/watch?v=g2yqx3ee8fQ",
-      "error": ""
-    },
-    {
-      "last_run": "2026-05-17 18:41 UTC",
-      "status": "success",
-      "title": "The Lion and the Mouse - Moral Story for Kids",
-      "youtube_url": "https://www.youtube.com/watch?v=0zDQ0fISND0",
-      "error": ""
     }
   ]
 }
