@@ -1,9 +1,30 @@
 {
-  "last_run": "2026-07-04 06:16 UTC",
+  "last_run": "2026-07-05 06:38 UTC",
   "status": "failed",
-  "title": "Baby Baby Yes Papa + Boo-Boo Song\uff5cJohny Johny Yes Papa\ud83e\uddc1\uff5cHealthy Habit Songs\u3163Bebefinn Nursery Rhymes",
+  "title": "Nastya and children's creative ideas",
   "youtube_url": "",
   "history": [
+    {
+      "last_run": "2026-07-05 06:38 UTC",
+      "status": "failed",
+      "title": "Nastya and children's creative ideas",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-07-05 06:38 UTC",
+      "status": "failed",
+      "title": "\ud83e\uddb7\ud83e\udea5 Brush Your Teeth PoliceGirl #kidssong @dominoki",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-07-05 06:38 UTC",
+      "status": "failed",
+      "title": "Tastes Song Learning English | Song For Kids | Lagu Anak Balita Paud Tk Edukasi",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
     {
       "last_run": "2026-07-04 06:16 UTC",
       "status": "failed",
@@ -188,27 +209,6 @@
     },
     {
       "last_run": "2026-06-26 06:54 UTC",
-      "status": "failed",
-      "title": "Learn Counting numbers with Banana Song @SuperSimpleSongs #shorts #kidsshorts #kidsvideo #kids",
-      "youtube_url": "",
-      "error": "Could not download video \u2014 skipping"
-    },
-    {
-      "last_run": "2026-06-25 06:45 UTC",
-      "status": "failed",
-      "title": "\ud83e\uddb7\ud83e\udea5 Brush Your Teeth PoliceGirl #kidssong @dominoki",
-      "youtube_url": "",
-      "error": "Could not download video \u2014 skipping"
-    },
-    {
-      "last_run": "2026-06-25 06:45 UTC",
-      "status": "failed",
-      "title": "Tastes Song Learning English | Song For Kids | Lagu Anak Balita Paud Tk Edukasi",
-      "youtube_url": "",
-      "error": "Could not download video \u2014 skipping"
-    },
-    {
-      "last_run": "2026-06-25 06:45 UTC",
       "status": "failed",
       "title": "Learn Counting numbers with Banana Song @SuperSimpleSongs #shorts #kidsshorts #kidsvideo #kids",
       "youtube_url": "",
