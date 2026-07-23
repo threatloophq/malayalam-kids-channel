@@ -1,9 +1,30 @@
 {
-  "last_run": "2026-07-22 05:46 UTC",
+  "last_run": "2026-07-23 05:51 UTC",
   "status": "failed",
-  "title": "Nastya and her friends come up with the most creative ideas DIY",
+  "title": "Wheels On The Bus - Learn Colors with Color Change Garage + Johny Johny Yes Papa - Kids Songs",
   "youtube_url": "",
   "history": [
+    {
+      "last_run": "2026-07-23 05:51 UTC",
+      "status": "failed",
+      "title": "Wheels On The Bus - Learn Colors with Color Change Garage + Johny Johny Yes Papa - Kids Songs",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-07-23 05:51 UTC",
+      "status": "failed",
+      "title": "Nastya and her friends come up with the most creative ideas DIY",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-07-23 05:51 UTC",
+      "status": "failed",
+      "title": "Shapes Learning | Kids Song Square & Circle | Lagu Anak Balita Paud Tk Mengenal Bentuk",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
     {
       "last_run": "2026-07-22 05:46 UTC",
       "status": "failed",
@@ -190,27 +211,6 @@
       "last_run": "2026-07-14 05:26 UTC",
       "status": "failed",
       "title": "AKULAH PEJUANG \u2665 Lagu Anak Indonesia \u2665 Nursery Rhymes \u2665 Keira Charma Fun #laguanak",
-      "youtube_url": "",
-      "error": "Could not download video \u2014 skipping"
-    },
-    {
-      "last_run": "2026-07-13 06:13 UTC",
-      "status": "failed",
-      "title": "Johny Johny Yes Papa - Learn Colors with Colorful BALLS - Gumball Machine - Kids Songs",
-      "youtube_url": "",
-      "error": "Could not download video \u2014 skipping"
-    },
-    {
-      "last_run": "2026-07-13 06:13 UTC",
-      "status": "failed",
-      "title": "This Is Push This Is Pull | Learn Opposites Song for Kids #preschoolsongs #oppositewords #kidssongs",
-      "youtube_url": "",
-      "error": "Could not download video \u2014 skipping"
-    },
-    {
-      "last_run": "2026-07-13 06:13 UTC",
-      "status": "failed",
-      "title": "\ud83e\uddb7\ud83e\udea5 Brush Your Teeth PoliceGirl #kidssong @dominoki",
       "youtube_url": "",
       "error": "Could not download video \u2014 skipping"
     }
