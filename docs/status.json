@@ -1,9 +1,30 @@
 {
-  "last_run": "2026-10-20 08:08 UTC",
+  "last_run": "2026-10-21 08:14 UTC",
   "status": "failed",
   "title": "Let's plant together! Useful cartoon for kids",
   "youtube_url": "",
   "history": [
+    {
+      "last_run": "2026-10-21 08:14 UTC",
+      "status": "failed",
+      "title": "Let's plant together! Useful cartoon for kids",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-10-21 08:14 UTC",
+      "status": "failed",
+      "title": "Three little babies | Kids fun cartoon",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-10-21 08:14 UTC",
+      "status": "failed",
+      "title": "ABC Song \u2764\ufe0f\ud83d\udc9a\u2764\ufe0f OPQRSTUVWXYZ - Super Simple Songs",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
     {
       "last_run": "2026-10-20 08:08 UTC",
       "status": "failed",
@@ -188,27 +209,6 @@
     },
     {
       "last_run": "2026-10-12 10:09 UTC",
-      "status": "failed",
-      "title": "ABC Song \u2764\ufe0f\ud83d\udc9a\u2764\ufe0f OPQRSTUVWXYZ - Super Simple Songs",
-      "youtube_url": "",
-      "error": "Could not download video \u2014 skipping"
-    },
-    {
-      "last_run": "2026-10-11 09:38 UTC",
-      "status": "failed",
-      "title": "Big Elephant, Tiny Ants \ud83d\udc18\ud83d\udc1c No One Is Too Small to Help! | Funny Moral Story for Kids",
-      "youtube_url": "",
-      "error": "Could not download video \u2014 skipping"
-    },
-    {
-      "last_run": "2026-10-11 09:38 UTC",
-      "status": "failed",
-      "title": "Flood Rescue Story #Kids",
-      "youtube_url": "",
-      "error": "Could not download video \u2014 skipping"
-    },
-    {
-      "last_run": "2026-10-11 09:38 UTC",
       "status": "failed",
       "title": "ABC Song \u2764\ufe0f\ud83d\udc9a\u2764\ufe0f OPQRSTUVWXYZ - Super Simple Songs",
       "youtube_url": "",
