@@ -1,9 +1,30 @@
 {
-  "last_run": "2026-10-29 09:16 UTC",
+  "last_run": "2026-10-30 09:32 UTC",
   "status": "failed",
   "title": "Kick the Color Balls! | Lalafun Nursery Rhymes & Kids Songs",
   "youtube_url": "",
   "history": [
+    {
+      "last_run": "2026-10-30 09:32 UTC",
+      "status": "failed",
+      "title": "Kick the Color Balls! | Lalafun Nursery Rhymes & Kids Songs",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-10-30 09:32 UTC",
+      "status": "failed",
+      "title": "Miko Goes Over the Mountain \ud83c\udfd4\ufe0f | Play Together Song for Kids #shorts",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
+    {
+      "last_run": "2026-10-30 09:32 UTC",
+      "status": "failed",
+      "title": "Let's plant together! Useful cartoon for kids",
+      "youtube_url": "",
+      "error": "Could not download video \u2014 skipping"
+    },
     {
       "last_run": "2026-10-29 09:16 UTC",
       "status": "failed",
@@ -188,27 +209,6 @@
     },
     {
       "last_run": "2026-10-21 08:14 UTC",
-      "status": "failed",
-      "title": "ABC Song \u2764\ufe0f\ud83d\udc9a\u2764\ufe0f OPQRSTUVWXYZ - Super Simple Songs",
-      "youtube_url": "",
-      "error": "Could not download video \u2014 skipping"
-    },
-    {
-      "last_run": "2026-10-20 08:08 UTC",
-      "status": "failed",
-      "title": "Let's plant together! Useful cartoon for kids",
-      "youtube_url": "",
-      "error": "Could not download video \u2014 skipping"
-    },
-    {
-      "last_run": "2026-10-20 08:08 UTC",
-      "status": "failed",
-      "title": "Three little babies | Kids fun cartoon",
-      "youtube_url": "",
-      "error": "Could not download video \u2014 skipping"
-    },
-    {
-      "last_run": "2026-10-20 08:08 UTC",
       "status": "failed",
       "title": "ABC Song \u2764\ufe0f\ud83d\udc9a\u2764\ufe0f OPQRSTUVWXYZ - Super Simple Songs",
       "youtube_url": "",
